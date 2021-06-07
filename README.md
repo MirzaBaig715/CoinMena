@@ -14,10 +14,12 @@ These instructions will get you a copy of the project up and running on your loc
 - Django 3.2.1
 - Django Rest Framework 3.12.4
 - AlphaVantage 2.3.1
-- Docker (install [docker.com] (https://docs.docker.com/docker-for-mac/install/) and run docker)
+- Docker 
 
 
 ### Installing
+
+Install [docker.com] (https://docs.docker.com/docker-for-mac/install/) and run docker process in background.
 
 First clone the repo into your local directory.
 
