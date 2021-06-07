@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 - Django 3.2.1
 - Django Rest Framework 3.12.4
 - AlphaVantage 2.3.1
-- Docker
+- Docker (install [docker.com] (https://docs.docker.com/docker-for-mac/install/) and run docker)
 
 
 ### Installing
